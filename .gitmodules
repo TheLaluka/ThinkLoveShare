@@ -1,3 +1,7 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = https://github.com/your-identity/hugo-theme-dimension.git
+[submodule "TheLaluka.github.io"]
+	path = TheLaluka.github.io
+	url = git@github.com:TheLaluka/TheLaluka.github.io.git
+	branch = master
