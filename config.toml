@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://localhost:8000/"
 languageCode = "en-us"
 title = "Think, Love, Share"
 theme = "dimension"
