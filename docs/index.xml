@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Think, Love, Share</title>
-    <link>/</link>
+    <link>thelaluka.github.io/</link>
     <description>Recent content on Think, Love, Share</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 11:53:11 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Nov 2020 11:53:11 +0100</lastBuildDate><atom:link href="thelaluka.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>thelaluka.github.io/posts/hello-world/</link>
       <pubDate>Sun, 22 Nov 2020 11:53:11 +0100</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>thelaluka.github.io/posts/hello-world/</guid>
       <description></description>
     </item>
     
